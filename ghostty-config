@@ -1,0 +1,16 @@
+#ghostty config
+
+#theme
+theme = nord
+
+#formatting
+background-opacity = 0.80
+background-blur-radius = 15
+font-family = GeistMono Nerd Font Mono
+font-size = 14
+window-decoration = false
+window-padding-x = 10
+window-padding-y = 10
+
+#shell
+shell-integration = zsh
